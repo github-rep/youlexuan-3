@@ -1,6 +1,7 @@
 package com.offcn;
 
 public class Goods  {
+    private int id;
     private String goodsName;
 
     public String getGoodsName() {
